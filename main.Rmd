@@ -2,7 +2,14 @@
 output:
   word_document:
     reference_docx: style.docx
-date: '`r format(Sys.Date(),"%B %d, %Y")`'
+header-includes:
+        \usepackage{tfrupee}
+        \usepackage{setspace}
+        \onehalfspacing
+        \usepackage{fontspec}
+        \setmainfont{Garamond}
+font-size: 12pt
+date: "`r format(Sys.Date(),'%B %d, %Y')`"
 ---
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
