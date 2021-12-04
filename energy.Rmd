@@ -1,0 +1,9 @@
+# Energy
+Total installed capacity of power in the State as on March 2021 is 2,965.66 MW,  of which, hydel power contributed the major share of 2,129.42 MW (71.80 per cent); while 465.58 MW was contributed by thermal projects (15.70 per cent), 300.33 MW (10.13 per cent) from solar and 70.28 MW from wind (2.37 per cent).
+ 
+KSEBL in 2020-21 has sold 22,151.60 MU power to 1,31,42,910  consumers  including 11 bulk licences. Rs 14420.64 lakh were generated as total revenue. The total revenue from sale of power, including sales to other utilities outside the state is Rs.14,420.64 crore.
+ 
+Electrical energy consumption has decreased 22,540.32 MU (includes open access consumption) in 2020-21 from 23058.91 MU in 2019-20, a decrease of 2.24 per cent.
+In 2020-21, AT&C loss has decreased to 7.76 per cent from 13.15 per cent and transmission and distribution (T&D) loss came down to 10.32 per cent from 12.08 per cent. The increase in AT& C loss in 2019-20 and decrease in 2020-21 was due to the corresponding decrease/ increase in collection efficiency in respective period.
+
+Commissioned HVDC Pugalur- Madakkathara Pole I & II and 400 kV Kozhikkode-Madakkathara double circuits

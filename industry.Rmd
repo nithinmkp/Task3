@@ -1,0 +1,33 @@
+# Industry
+## Traditional Industries
+### MSME Sector
+- In 2020-21, 11,540 new MSMEs  units were started with an investment of 1,221.86  crore and provided employment to 44,975 persons .
+- The highest number of MSME units were started in the agro and food based sector(3359 units)
+- The 2,303 units functioning in the Development Area/Development Plots(DA/DPs)  under DIC provided employment to 2,306 persons.
+
+### Khadi and Village Industries Sector
+- In 2020-21, Khadi sector in Kerala provided employment to 13,190 artisans and added cloth and yarn production of Rs.7,981.8 l lakh. Total wages paid to khadi artisans was Rs.3618 lakh and total khadi sales were Rs.9,219 lakh.
+- Khadi and Village Industries Board could generate 2,834 new employments through the village industries and created capital investment of `2,910 lakhs for 429 units and provided employments to 2337 persons through Prime Minister’s Employment Generation Programme (PMEGP).
+
+### Cashew Industry
+- In terms of total production of raw cashew, Kerala ranks 6th among the producing states. In Kerala the production of raw cashew nut increased marginally from 80,000 MT in 2014-15 to 82,889 MT in 2018-19. However, the production has subsequently fallen to 73,110 MT in 2020-21.
+- Kerala has an area of 1.03 lakh ha under cashew production and is placed sixth in terms of area under cashew production. The area under cultivation of cashew increased from 84,500 hectres in 2014-15 to 1,03,210 hectres in 2020-21, with significant gains since 2015-16.
+- It is estimated that the sector employs about 3 lakh workers and 90 per cent of them are women.
+- In 2020-21, cashew kernel (processed cashew nut) export from Kerala was 24,929 MT valued at Rs 1,461.27 crore.
+- The efforts of state government are to bring down the processing costs, provide continuous employment to workers and fair wages to the workers. Partial mechanization is a recent intervention on part of the Government. It has improved labour productivity.
+- KCB was established in 2017 by the State Government as a special purpose vehicle with the main objective of procuring and supplying Raw Cashew Nuts (RCN) at reasonable price to the cashew processing units in Kerala. Since 2018-19, the cumulative value of cashew imports of the agency is about Rs 422.67 crore.
+
+### Handloom & Textiles
+- The textile sector in Kerala includes areas like spinning, weaving, garment manufacturing, dyeing and processing units. The sector involves the units in public sector (both State and Central), co-operative sector, and private sector.
+- The spinning sector in Kerala includes the public sector (State and Central), the co-operative sector and the private sector. The spinning sector includes 26 mills with total spindle capacity of 7.03 lakh, employing about 7,600 people.
+- The weaving sector includes the khadi units, handloom units, and power loom units. The handloom sector is a major source of employment in Kerala. In fact, among the traditional industries in the State, the handloom sector is second only to the coir sector with respect to employment. The total number of handlooms in the State in 2020-21 was 16,657. They produced about 148.8 lakh metres of handloom cloth. In 2020-21 the turnover was Rs 164.98 crore. The total number of weavers in the handloom sector in 2020-21 was 13,656.   The number of women weavers was 9,030.
+- There are 958 power looms in the State of which more than 84 per cent (812) are in the co-operative sector. In the power loom sector, production of cloth in 2020-21 was 55.73 lakh meters valued at Rs. 384.62 lakh. Productivity was 5817.94 meters per loom and the total turnover was Rs 396.01 lakh. 
+- The garment industry has the potential to generate employment in large numbers even with the adoption of latest technologies. It has a large presence of women employees.
+- Significant recent initiative - The State Government is setting up a Textile Processing Centre at Nadukani, which will be an important step towards localisation of textile processing in the State.
+
+## `r str_to_title("MEDIUM AND LARGE INDUSTRIES")`
+### Life Science Park
+A dedicated park for the Life Sciences Sector is being set up by KSIDC in 206 acres of land at Thonnakkad Thiruvananthapuram. Work on infrastructure development has been completed in phase 1 of the park is which the institute of Advanced Virology Project has become operational.
+
+### Medical devices park
+KSIDC as a joint initiative with the Sree Chithira Thirunal Institute for Medical Sciences and Technology has conceived a ₹ 260 crore project for setting up a   Medical Devices park in 9 acres of land in the Life Science Park. The project will be completed in March 2022.

@@ -1,0 +1,9 @@
+# `r str_to_title("INFORMATION TECHNOLOGY")`
+## `r str_to_title("Digital University")`
+The Kerala University of Digital Sciences Innovation and Technology was established by Government of Kerala vide ordinance no.9 of 2020 dated 18 January 2020 and started functioning from the new  campus of IIITMK in Technocity. The new university will strive to be an international benchmark in conducting cutting edge research and implementing modern technological interventions in disruptive technologies. The university is aiming to create capacity building in post graduate and doctorate level in the areas of Artificial Intelligence and Natural Language Processing, Internet of things. Electronic Systems and Automation, Imaging Technologies, Data Analytics and Big Data, Cyber Security, Block chain, Ecological Informatics, Geospatial  Analytics etc…
+
+## Startup Mission
+Kerala Startup Mission has successfully implemented various entrepreneurship development programmes. The organization has been instrumental in many ways to create a successful spring board for the entrepreneur community to experiment their innovative technology product ideas and to come up with a new generation of promising startups.
+
+## Kerala Fibre Optic Network Limited-(KFON)
+KFON a state-wide optical fibre network capable of providing high-speed internet connectivity to about 30,000 government and educational institutions offer free internet to 20 lakh economically backward families and internet services at a lower rate for others.

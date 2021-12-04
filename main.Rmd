@@ -1,0 +1,21 @@
+---
+output:
+  word_document:
+    reference_docx: style.docx
+date: '`r format(Sys.Date(),"%B %d, %Y")`'
+---
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(here)
+library(devtools)
+library(knitr)
+library(epoxy)
+library(stringr)
+library(tidyverse)
+```
+---
+title: '`r str_to_title("Salient features of sectors")`'
+---
+
+```{r, child=c('energy.Rmd','industry.Rmd','transport.Rmd','IT.Rmd','TOUR_SI.Rmd')}
+```
