@@ -1,0 +1,47 @@
+---
+documentclass: letter
+output: 
+  pdf_document:
+    includes:
+      in_header: "preamble.tex"
+font-size: 12pt 
+urlcolor: blue
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(fontawesome)
+```
+
+\raggedleft \textbf{Industry \& Infrastructure Division \\
+`r format(Sys.Date(),"%d %B, %Y")`}
+
+\vspace{0.1cm}
+
+\raggedright \textbf{No. SPB/430/2021 - I \&I}
+\vspace{0.35cm}
+\begin{center}
+\textbf{\large Note}
+\end{center}
+\vspace{0.55cm}
+Sub:- I \&I- Salient Features of the State's Economy during 2021- reply-furnishing-reg  
+
+Ref:- 1. Note No 1/2021/PCD/SPB dated 15/11/2021
+
+Attention is invited to the captioned subject. The details of the salient features of State Economy during 2021 pertaining to the various sectors under the purview of Industry \& Infrastructure division is attached herewith for further necessary action.
+
+\vspace{0.2cm}
+
+\raggedleft \textbf{Chief (I \& I)}
+
+\raggedright 
+To  
+\hspace{0.7cm} Chief  
+\hspace{0.7cm} Plan Co-ordination Division
+
+
+
+
+
+
+`
