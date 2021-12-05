@@ -27,6 +27,7 @@ library(fontawesome)
 Sub:- I \&I- Salient Features of the State's Economy during 2021- reply-furnishing-reg  
 
 Ref:- 1. Note No 1/2021/PCD/SPB dated 15/11/2021
+\vspace{1.2cm}
 
 Attention is invited to the captioned subject. The details of the salient features of State Economy during 2021 pertaining to the various sectors under the purview of Industry \& Infrastructure division is attached herewith for further necessary action.
 
@@ -44,4 +45,3 @@ To
 
 
 
-`
