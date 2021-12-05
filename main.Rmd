@@ -1,5 +1,7 @@
 ---
 output:
+  pdf_document:
+    latex_engine: xelatex      
   word_document:
     reference_docx: style.docx
 header-includes:
@@ -7,7 +9,7 @@ header-includes:
         \usepackage{setspace}
         \onehalfspacing
         \usepackage{fontspec}
-        \setmainfont{Garamond}
+        \usepackage[utf8]{inputenc}
 font-size: 12pt
 date: "`r format(Sys.Date(),'%B %d, %Y')`"
 ---
@@ -19,10 +21,21 @@ library(knitr)
 library(epoxy)
 library(stringr)
 library(tidyverse)
+library(glue)
+library(utf8)
 ```
 ---
 title: '`r str_to_title("Salient features of sectors")`'
 ---
 
-```{r, child=c('energy.Rmd','industry.Rmd','transport.Rmd','IT.Rmd','TOUR_SI.Rmd')}
+```{r include=FALSE}
+is_pdf<-knitr::is_latex_output()
+is_word<-pandoc_to("docx")
 ```
+
+```{r, child=c('energy.Rmd','industry.Rmd','transport.Rmd','IT.Rmd','TOUR_SI.Rmd'),eval=is_word}
+```
+```{r, child=c('energy.Rmd','industry.Rmd','transport.Rmd','IT.Rmd','TOUR_SI_pdf.Rmd'),eval=is_pdf}
+
+```
+
