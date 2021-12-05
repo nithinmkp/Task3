@@ -25,7 +25,7 @@ library(glue)
 library(utf8)
 ```
 ---
-title: '`r str_replace_all(str_to_title("salient features of sectors"),regex("and|for|of",ignore_case = T),casefold)`'
+title: '`r tools::toTitleCase("salient features of sectors")`'
 ---
 
 ```{r include=FALSE}
